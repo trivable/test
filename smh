@@ -1,3 +1,4 @@
 scriptmaster hub loadstring
 
 loadstring(game:HttpGet(('https://raw.githubusercontent.com/TheScriptMaster1/ScriptMaster-Hub/main/scriptmasterhub.lua')))()
+https://www.google.com/search?q=loadstring%28game%3AHttpGet%28%22Url+Here%22%2Ctrue%29%29%28%29%3B&client=safari&sca_esv=652ec1b02583bbe2&rls=en&biw=941&bih=611&ei=eMj7ZdKVFfaFwbkPu5WMoAg&ved=0ahUKEwjSsbm90oSFAxX2QjABHbsKA4QQ4dUDCBA&uact=5&oq=loadstring%28game%3AHttpGet%28%22Url+Here%22%2Ctrue%29%29%28%29%3B&gs_lp=Egxnd3Mtd2l6LXNlcnAiLGxvYWRzdHJpbmcoZ2FtZTpIdHRwR2V0KCJVcmwgSGVyZSIsdHJ1ZSkpKCk7SKUVUL0EWM0ScAF4AJABAJgBSaABjgGqAQEyuAEDyAEA-AEBmAIAoAIAmAMAiAYBkgcAoAda&sclient=gws-wiz-serp
